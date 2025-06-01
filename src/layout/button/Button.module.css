@@ -1,0 +1,23 @@
+.btn{
+    color: #fff;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.62rem;
+    letter-spacing: 0.14288rem;
+    border: none;
+    border-bottom: 4px solid #4ee1a0;
+    background: transparent;
+    font-family: inherit;
+    padding-bottom: 0.5rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.btn:hover{
+    color: #4ee1a0;
+    transform: scale(1.05);
+}
+.btn:active{
+     transform: scale(0.95);
+}

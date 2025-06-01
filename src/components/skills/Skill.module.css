@@ -1,0 +1,19 @@
+.skill_container{
+    margin: 10rem auto;
+    max-width: 85vw;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border-top: 2px solid white;
+    padding-top: 3.5rem;
+}
+
+
+@media (max-width:480px){
+.skill_container{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    align-items: center;
+    text-align: center;
+    margin-top: -20px;
+}
+}
