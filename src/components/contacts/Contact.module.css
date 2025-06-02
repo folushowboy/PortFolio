@@ -82,7 +82,9 @@ textarea:focus {
         width: 90vw;
         margin-bottom: 3rem;
     }
-
+    .contact_content h2{
+        font-size: 2.5rem;
+    }
     input {
         width: 85vw;
     }
