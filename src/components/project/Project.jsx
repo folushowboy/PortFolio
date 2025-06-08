@@ -18,6 +18,7 @@ const Project = () => {
                             tagOne={item.tagOne}
                             tagTwo={item.tagTwo}
                             tagThree={item.tagThree}
+                            link={item.link}
                             key={index}
                         />
                     );

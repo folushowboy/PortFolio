@@ -25,17 +25,17 @@ const Header = ()=> {
                 </span>
                 <ul className={hiddenMenu ? style.hideMenu : style.showMenu}>
                     <li>
-                        <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/folushowboy" target="_blank" rel="noopener noreferrer">
                             <img src={github} alt="GitHub" />
                         </a>
                     </li>
                     <li>
-                        <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.linkedin.com/in/odusina-tolulope/" target="_blank" rel="noopener noreferrer">
                             <img src={linkedin} alt="LinkedIn" />
                         </a>
                     </li>
                     <li>
-                        <a href="https://wa.me/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://wa.me/+2349077867875" target="_blank" rel="noopener noreferrer">
                             <img src={whatsapp} alt="WhatsApp" />
                         </a>
                     </li>
