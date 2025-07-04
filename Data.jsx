@@ -23,6 +23,7 @@ export const ProjectData = [
         tagOne: "HTML",
         tagTwo: "CSS",
         tagThree: "JavaScript",
+        link: "https://guessfigure.netlify.app/"
     },
     {
         img: ToDoList,
